@@ -1,0 +1,20 @@
+{
+  "name": "pergunta-resposta-node.js",
+  "version": "1.0.0",
+  "description": "Pacote para testar o funcionamento do NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "URL",
+    "pergunta",
+    "resposta"
+  ],
+  "author": "Ana Rita",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1",
+    "url": "^0.11.0"
+  }
+}
